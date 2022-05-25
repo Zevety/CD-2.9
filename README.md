@@ -12,5 +12,8 @@
 
 ## Выполнение заданий:
 
-<img src = "https://user-images.githubusercontent.com/70855182/165831947-f71cc30e-28fd-4e9f-a11d-ea24b898b31b.gif" width="270" height="600" />
+![Screenshot_1](https://user-images.githubusercontent.com/90498783/170382738-6683ddd6-492d-4bcb-9800-38a1d7d626f7.png)
+
+
+![Screenshot_2](https://user-images.githubusercontent.com/90498783/170382747-36817d32-423c-4bad-ac85-4cd4451a2150.png)
 
